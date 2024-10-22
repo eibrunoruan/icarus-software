@@ -192,7 +192,7 @@ export const Contact = () => {
               icon="send"
               type="submit"
             >
-              Send message
+              Enviar mensagem.
             </Button>
           </Form>
         )}
